@@ -1,0 +1,28 @@
+{
+    "name": "string-builder",
+    "version": "1.0.0",
+    "description": "String builder analogue from c# written in typescript",
+    "main": "dist/index.js",
+    "types": "dist/index.d.ts",
+    "scripts": {
+        "prepublish": "tsc",
+        "prepublishOnly": "tsc"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/PiletskiyVladimir/string-builder.git"
+    },
+    "keywords": [
+        "typescript",
+        "string",
+        "string-builder",
+        "string_builder",
+        "stringBuilder"
+    ],
+    "author": "Volodymyr NodeJSSadDev Piletskyi",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/PiletskiyVladimir/string-builder/issues"
+    },
+    "homepage": "https://github.com/PiletskiyVladimir/string-builder#readme"
+}

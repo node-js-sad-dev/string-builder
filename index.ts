@@ -1,0 +1,1 @@
+export {default as StringBuilder} from './src/StringBuilder';
