@@ -1,5 +1,5 @@
 {
-    "name": "string-builder",
+    "name": "js-string-builder",
     "version": "1.0.0",
     "description": "String builder analogue from c# written in typescript",
     "main": "dist/index.js",
