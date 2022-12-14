@@ -1,4 +1,4 @@
-import {StringBuilder} from "./index";
+import StringBuilder from "./index";
 
 console.time('Without library');
 
